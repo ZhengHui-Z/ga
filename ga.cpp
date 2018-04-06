@@ -52,7 +52,7 @@ queue <Population> best;                //记录最优
 //double adaptation(Population &a)              //计算适应度
 //void adaptation_rate()                        //适应率---个体适应度占种群的百分比
 //accumlation_rate()                            //累积率
-//void TSP::Roulette()                          //轮盘赌算法，用于筛选个体
+//void TSP::Roulette()                          //用于筛选个体
 //void Intersect(Population &a, Population &b)  //交叉变异
 //void Intersect_all()                          //种群所有个体交叉遗传
 //void Varation()                               //变异
